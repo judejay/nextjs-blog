@@ -56,8 +56,8 @@ export default function Home() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Powered by{" "}
-          <img src="/vercel.svg" alt="Vercel" className={styles.logo} />
+          Made by Jude{" "}
+          <img src="/logo.svg" alt="Jude" className={styles.logo} />
         </a>
       </footer>
 
