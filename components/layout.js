@@ -4,18 +4,15 @@ import styles from "./layout.module.css";
 import utilStyles from "../styles/utils.module.css";
 import Link from "next/link";
 
-const name = "Jude";
-export const siteTitle = "Jude's Blog";
+const name = "Honda VFR 750";
+export const siteTitle = "Jude's VFR Blog";
 
 export default function Layout({ children, home }) {
   return (
     <div className={styles.container}>
       <Head>
         <link rel="icon" href="/favicon.ico" />
-        <meta
-          name="description"
-          content="Learn how to build a personal website using Next.js"
-        />
+        <meta name="description" content="Honda VFR 750 blog using Next.js" />
         <meta
           property="og:image"
           content={`https://og-image.vercel.app/${encodeURI(
@@ -30,7 +27,7 @@ export default function Layout({ children, home }) {
           <>
             <Image
               priority
-              src="/images/profile.jpg"
+              src="/images/008.jpg"
               className={utilStyles.borderCircle}
               height={144}
               width={144}
