@@ -40,6 +40,8 @@ Fix the well nuts to the fairing, I used expanding glue, release the screws befo
 product you used, but something like two hours for what I used. At this point cut away any excess product. Use of plasticine
 can give a disposable mold for the glue to expand into. Further strengthening of your new bosses can be done with fibre glass/GRP product. Allow to fully cure for over 48 hours before re-assembling. Cutting away any excess is much easier with the GRP dried.
 
+![fuel](/images/003.png)
+
 ## Overhaul Mechanism
 
 The mechanism has a couple of washers, these can be replaced with a kit or just the corrosion on the washers removed by wire wool or wet & dry paper. Or put in citric acid solution overnight, that's lemon juice!
