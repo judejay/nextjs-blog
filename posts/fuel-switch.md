@@ -1,5 +1,5 @@
 ---
-title: "Remote Fuel Switch"
+title: "Remote Fuel Switch Repair"
 date: "2024-02-15"
 ---
 
@@ -7,7 +7,7 @@ date: "2024-02-15"
 
 The remote fuel switch is only provided on the European models of the RC36.
 Therefore there is limited information available on many resources.
-It allows for the selection of either ON, OFF or RESERVE at the 12 O'clock, 3 O'clock & 6 O'clock positions respectively frm the left hand top fairing of the cockpit. It works by means of a two cable system that activates the fuel tap under the petrol tank.
+It allows for the selection of either ON, OFF or RESERVE at the 12 O'clock, 3 O'clock & 6 O'clock positions respectively from the left hand top fairing of the cockpit. It works by means of a two cable system that activates the fuel tap under the petrol tank.
 
 ## Important
 
@@ -27,23 +27,24 @@ Mine wasn't attached as two of the bosses were missing from the fairing, the oth
 
 ## Replacing the bosses
 
-The bosses are like three fingers the point into the fairing and contained in each is well nut that takes an M5 screw.
+The bosses are like three fingers the point into the fairing and contained in each is a well nut that takes an M5 screw.
 The well nuts can be bought as:
 
-Honda Motorcycle Windshield Fairing Rubber Well Nuts Washer M5.
+    Honda Motorcycle Windshield Fairing Rubber Well Nuts Washer M5.
 
-    You don't need the rubber, just heat it with a heat gun and slice the rubber, the well nut should just pop out!
+You don't need the rubber, just heat it with a heat gun and slice the rubber, the well nut should just pop out!
 
-With three well nuts and three screws going through the bracket, the position of the bosses should be established.
+With three well nuts and three screws going through the bracket, the position of the bosses should be established using the screw that locates through the top of the fairing to the bracket, if it that part of the fairing is still there. Mine wasn't so I had to re-make that, but that's another story!
 
 Fix the well nuts to the fairing, I used expanding glue, release the screws before the glue fully cures, this will depend on the
 product you used, but something like two hours for what I used. At this point cut away any excess product. Use of plasticine
-can give a disposable mold for the glue to expand into. Further strengthening of your new bosses can be done with fibre glass/GRP product. Allow to fully cure for over 48 hours before reassembling. Cutting away any excess is much easier with the GRP dried.
+can give a disposable mold for the glue to expand into. Further strengthening of your new bosses can be done with fibre glass/GRP product. Allow to fully cure for over 48 hours before re-assembling. Cutting away any excess is much easier with the GRP dried.
 
 ## Overhaul Mechanism
 
-The mechanism has a couple of washers, these can be replaced with a kit or just the corrosion on the washers removed by wire wool/wet & dry paper. Or you put in citric acid solution overnight, that's lemon juice!
-Point some penetrating spray down the cable, it will come out the other side.
+The mechanism has a couple of washers, these can be replaced with a kit or just the corrosion on the washers removed by wire wool or wet & dry paper. Or put in citric acid solution overnight, that's lemon juice!
+Point some penetrating spray down the cables, it will come out the other side.
+Ensure the mechanism turns freely before attaching to the bosses.
 
 ## Re-assembling
 
