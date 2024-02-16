@@ -32,7 +32,11 @@ The well nuts can be bought as:
 
     Honda Motorcycle Windshield Fairing Rubber Well Nuts Washer M5.
 
+![Rubber well nut m5](/images/001.png)
+
 You don't need the rubber, just heat it with a heat gun and slice the rubber, the well nut should just pop out!
+
+![Well nut m5](/images/002.png)
 
 With three well nuts and three screws going through the bracket, the position of the bosses should be established using the screw that locates through the top of the fairing to the bracket, if it that part of the fairing is still there. Mine wasn't so I had to re-make that, but that's another story!
 
@@ -54,6 +58,8 @@ Ensure the mechanism turns freely before attaching to the bosses.
 2. Fit the fairing to the bike.
 3. Attach the mechanism to the bracket.
 4. Locate the cables to bracket.
+
+![Fitted dial to bike](/images/007.png)
 
 ## Conclusion
 
